@@ -1,0 +1,252 @@
+a:link {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.menuelem {
+  background: orange;
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.fej{
+color: black;
+font-weight: bold;
+font-size: 30px;
+}
+
+
+.visszahiv{
+margin: 0 auto;
+display: block;
+background: url(visszahiv.jpg);
+background-size: 100%;
+width: 1000px;
+height: 540px;
+text-align: center;
+
+}
+
+.be{
+float: left;
+text-align: center;
+border-radius: 30%;
+background: lightblue;
+width: 300px;
+height: 25px;
+color: darkblue;
+font-weight: bold;
+border: 3px solid;
+border-color: white;
+box-shadow: 10px 10px 10px 5px black;
+}
+
+.bef{
+float: left;
+text-align: center;
+border-radius: 30%;
+background: darkblue;
+width: 200px;
+height: 25px;
+color: white;
+font-weight: bold;
+border: 3px solid;
+border-color: white;
+box-shadow: 10px 10px 10px 5px black;
+}
+
+
+.sub{
+width: 300px;
+height: 120px;
+color: white;
+background: darkblue;
+border-color: black;
+font-weight: bold;
+border: 3px solid;
+float: right;
+font-size: 25px;
+box-shadow: 10px 10px 10px 5px black;
+}
+
+.udvozlo{
+margin: 0 auto;
+display: block;
+background: url(item.jpg);
+background-size: 100%;
+width: 1000px;
+height: 200px;
+}
+
+
+.szovegdoboz {
+  padding: 30px;
+  font-size: 27px;
+  width: 900px;
+  height: 400px;
+  background: #EB9F0D;
+  box-shadow: 10px 10px 10px 5px black;
+  text-align: top;
+  opacity: 0.9;
+}
+
+.szovegdobozk {
+  background: #EB9F0D;
+  width: 960px;
+  height: 550px;
+  box-shadow: 10px 10px 10px 5px black;
+  text-align: top;
+  opacity: 0.9;
+}
+
+.szovegdoboz2 {
+  padding: 30px;
+  font-size: 35px;
+  background: #EB9F0D;
+  width: 900px;
+  height: 550px;
+  box-shadow: 10px 10px 10px 5px black;
+  text-align: top;
+  opacity: 0.9;
+}
+
+body {
+  background-size: cover;
+  background-image: url(bg001.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #282F33;
+  font-family: Arial;
+}
+
+
+.munka1{
+width: 220px;
+height: 280px;
+border-radius: 10%;
+border: 2px solid;
+border-color: darkorange;
+color: black;
+font-weight: bold;
+font-size: 15px;
+box-shadow: 5px 10px 10px 4px black;
+background: silver;
+opacity: 0.85;
+}
+
+.munka1:hover{
+box-shadow: 6px 12px 12px 5px darkorange;
+opacity: 1;
+}
+
+.kep{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  border: 2px solid;
+  border-color: red;
+}
+
+
+h2{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 35px;
+}
+
+.reszletek{
+background: darkorange;
+border: 3px solid;
+border-color: darkorange;
+border-radius: 30%;
+}
+
+
+
+h4{
+  text-align: center;
+}
+
+
+.munkajelentkezes{
+width: 500px;
+height: 30px;
+text-align: center;
+background: silver;
+border-radius: 40px;
+border: none;
+box-shadow: 6px 12px 12px 5px black;
+font-weight: bold;
+font-size: 25px;
+
+}
+
+.msubmit{
+width: 200px;
+height: 50px;
+text-align: center;
+background: silver;
+border-radius: 40px;
+border: none;
+box-shadow: 6px 12px 12px 5px black;
+font-weight: bold;
+font-size: 25px;
+}
+
+.msubmit:hover{
+background: green;
+color: white;
+
+}
+
+.munkajelentkezes:hover{
+background: lightblue;
+color: black;
+
+}
+
+.munka2{
+width: 220px;
+height: 70px;
+border-radius: 30%;
+border: 2px solid;
+border-color: red;
+color: black;
+font-weight: bold;
+font-size: 15px;
+box-shadow: 5px 10px 10px 4px black;
+background: rgb(220, 230, 235)
+}
+
+.munka2:hover{
+box-shadow: 6px 12px 12px 5px red;
+}
+
+.nyeremenyjatek{
+padding: 10px;
+width: 80%;
+height: 400px;
+background: #EB9F0D;
+opacity: 0.9;
+box-shadow: 5px 10px 10px 4px black;
+
+}
+.eredmeny{
+padding: 10px;
+width: 80%;
+height: 220px;
+background: darkgreen;
+color: white;
+opacity: 0.9;
+box-shadow: 5px 10px 10px 4px black;
+
+}
